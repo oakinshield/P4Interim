@@ -1,0 +1,200 @@
+{
+"_usage":"This data is restricted and may only be used with explicit permission from MetService NZ. Contact dataenquiries@metservice.com",
+"days":[{
+  "date":"23 May",
+  "dow":"Monday",
+  "dowTLA":"Mon",
+  "forecast":"Mostly cloudy, rain developing this evening. Northerlies.",
+  "forecastWord":"Cloudy",
+  "issuedAt":"8:43am 23 May",
+  "max":"13",
+  "min":"8",
+  "riseSet":{
+    "day":"23 May 2016",
+    "id":"loc13001",
+    "location":"Wellington",
+    "moonRise":"6:18pm",
+    "moonSet":"8:11am",
+    "sunRise":"7:28am",
+    "sunSet":"5:08pm"
+    },
+  "source":"IPS"
+  },{
+  "date":"24 May",
+  "dow":"Tuesday",
+  "dowTLA":"Tue",
+  "forecast":"Rain developing afternoon, possibly heavy. Northerly.",
+  "forecastWord":"Rain",
+  "issuedAt":"8:43am 23 May",
+  "max":"15",
+  "min":"10",
+  "riseSet":{
+    "day":"24 May 2016",
+    "id":"loc13001",
+    "location":"Wellington",
+    "moonRise":"7:05pm",
+    "moonSet":"9:04am",
+    "sunRise":"7:29am",
+    "sunSet":"5:07pm"
+    },
+  "source":"IPS"
+  },{
+  "date":"25 May",
+  "dow":"Wednesday",
+  "dowTLA":"Wed",
+  "forecast":"Periods of rain, clearing later. Northwesterly.",
+  "forecastWord":"Rain",
+  "issuedAt":"8:43am 23 May",
+  "max":"15",
+  "min":"11",
+  "riseSet":{
+    "day":"25 May 2016",
+    "id":"loc13001",
+    "location":"Wellington",
+    "moonRise":"7:57pm",
+    "moonSet":"9:55am",
+    "sunRise":"7:29am",
+    "sunSet":"5:06pm"
+    },
+  "source":"IPS"
+  },{
+  "date":"26 May",
+  "dow":"Thursday",
+  "dowTLA":"Thu",
+  "forecast":"Fine with northwesterlies.",
+  "forecastWord":"Fine",
+  "issuedAt":"8:43am 23 May",
+  "max":"15",
+  "min":"10",
+  "riseSet":{
+    "day":"26 May 2016",
+    "id":"loc13001",
+    "location":"Wellington",
+    "moonRise":"8:53pm",
+    "moonSet":"10:41am",
+    "sunRise":"7:30am",
+    "sunSet":"5:06pm"
+    },
+  "source":"IPS"
+  },{
+  "date":"27 May",
+  "dow":"Friday",
+  "dowTLA":"Fri",
+  "forecast":"Rain with northerlies.",
+  "forecastWord":"Rain",
+  "issuedAt":"10:41am 23 May",
+  "max":"14",
+  "min":"12",
+  "riseSet":{
+    "day":"27 May 2016",
+    "id":"loc13001",
+    "location":"Wellington",
+    "moonRise":"9:53pm",
+    "moonSet":"11:25am",
+    "sunRise":"7:31am",
+    "sunSet":"5:05pm"
+    },
+  "source":"EC"
+  },{
+  "date":"28 May",
+  "dow":"Saturday",
+  "dowTLA":"Sat",
+  "forecast":"Showers with northwesterlies.",
+  "forecastWord":"Showers",
+  "issuedAt":"10:41am 23 May",
+  "max":"15",
+  "min":"12",
+  "riseSet":{
+    "day":"28 May 2016",
+    "id":"loc13001",
+    "location":"Wellington",
+    "moonRise":"10:56pm",
+    "moonSet":"12:05pm",
+    "sunRise":"7:32am",
+    "sunSet":"5:05pm"
+    },
+  "source":"EC"
+  },{
+  "date":"29 May",
+  "dow":"Sunday",
+  "dowTLA":"Sun",
+  "forecast":"Rain with southwesterlies.",
+  "forecastWord":"Rain",
+  "issuedAt":"10:41am 23 May",
+  "max":"15",
+  "min":"10",
+  "riseSet":{
+    "day":"29 May 2016",
+    "id":"loc13001",
+    "location":"Wellington",
+    "moonSet":"12:42pm",
+    "sunRise":"7:33am",
+    "sunSet":"5:04pm"
+    },
+  "source":"EC"
+  },{
+  "date":"30 May",
+  "dow":"Monday",
+  "dowTLA":"Mon",
+  "forecast":"Showers with southerlies.",
+  "forecastWord":"Showers",
+  "issuedAt":"10:41am 23 May",
+  "max":"13",
+  "min":"10",
+  "riseSet":{
+    "day":"30 May 2016",
+    "id":"loc13001",
+    "location":"Wellington",
+    "moonRise":"12:02am",
+    "moonSet":"1:18pm",
+    "sunRise":"7:33am",
+    "sunSet":"5:04pm"
+    },
+  "source":"EC"
+  },{
+  "date":"31 May",
+  "dow":"Tuesday",
+  "dowTLA":"Tue",
+  "forecast":"Showers. Southerlies.",
+  "forecastWord":"Showers",
+  "issuedAt":"10:41am 23 May",
+  "max":"12",
+  "min":"9",
+  "riseSet":{
+    "day":"31 May 2016",
+    "id":"loc13001",
+    "location":"Wellington",
+    "moonRise":"1:09am",
+    "moonSet":"1:53pm",
+    "sunRise":"7:34am",
+    "sunSet":"5:03pm"
+    },
+  "source":"EC"
+  },{
+  "date":"1 Jun",
+  "dow":"Wednesday",
+  "dowTLA":"Wed",
+  "forecast":"Showers with southerlies.",
+  "forecastWord":"Showers",
+  "issuedAt":"10:41am 23 May",
+  "max":"12",
+  "min":"10",
+  "riseSet":{
+    "day":"1 June 2016",
+    "id":"loc13001",
+    "location":"Wellington",
+    "moonRise":"2:18am",
+    "moonSet":"2:28pm",
+    "sunRise":"7:35am",
+    "sunSet":"5:03pm"
+    },
+  "source":"EC"
+  }
+  ],
+"locationECWasp":"WELLINGTON",
+"locationGFS":"93434",
+"locationIPS":"WELLINGTON",
+"locationWASP":"WELLINGTON AERO",
+"saturdayForecastWord":"Showers",
+"sundayForecastWord":"Rain"
+}
